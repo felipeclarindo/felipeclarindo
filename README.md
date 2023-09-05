@@ -20,7 +20,7 @@ Aqui estão algumas das tecnologias e linguagens com as quais estou familiarizad
 
 Aqui estão alguns dos meus projetos que podem lhe interessar:
 
-- [Automação de e-mails](https://github.com/felipeclarindo/Projeto-automacao-emails):
+- [Automação de e-mails](https://github.com/felipeclarindo/automacao-email):
   Projeto em Python que envia e-mails automaticamente para contatos com agendamento e rastreamento.
   Usando bibliotecas como smtplib e schedule, automatiza envios e gera relatórios PDF detalhados.
   Solução completa para automação de e-mails.
