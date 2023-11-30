@@ -11,8 +11,8 @@ Olá! Sou Felipe, um(a) admirador de tecnologia apaixonado(a) por desenvolviment
 
 Aqui estão algumas das tecnologias e linguagens com as quais estou familiarizado:
 
-- Linguagens de Programação: [Python.]
-- Frameworks: (pygame)
+- Linguagens de Programação: [Python, JavaScript]
+- Frameworks: (pygame, tkinter)
 - Ferramentas: Visual Studio Code
 - Outras Habilidades: Banco de dados
 
