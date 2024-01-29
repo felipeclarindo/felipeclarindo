@@ -24,8 +24,14 @@ Aqui estão alguns dos meus projetos que podem lhe interessar:
   Projeto em Python que envia e-mails automaticamente para contatos com agendamento e rastreamento.
   Usando bibliotecas como smtplib e schedule, automatiza envios e gera relatórios PDF detalhados.
   Solução completa para automação de e-mails.
-- ...
+  
+- [WebSite PetLife](https://github.com/felipeclarindo/projeto-petlife):
+  Projeto feito para aprimorar meu conhecimento em JavaScript e a utilização do html, css.
 
+- [Buscar Cep](https://github.com/felipeclarindo/buscar-cep)
+  Projeto desenvolvido utilizando Python, com a utilização do Framework "requests".
+  Faz uma requisição em uma api de cep, e retorna as informações do cep informado.
+  
 ## Estatísticas
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeclarindo&show_icons=true&count_private=true&hide=stars)](https://github.com/felipeclarindo)
