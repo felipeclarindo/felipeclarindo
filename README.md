@@ -1,47 +1,36 @@
-# Bem-vindo ao Meu Perfil do GitHub! 👋
 
-## Sobre Mim
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF5ZTd3YTJ4MWN1MXdra3E0Z3VrZHJzOXI4dDcwbHpkMnF3bTRneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbthCaiP4EJG5IQFJY/giphy.gif" alt="GIF de programação"
+height="50%" width="100%"/>
 
-Olá! Sou Felipe, um(a) admirador de tecnologia apaixonado(a) por desenvolvimento web e desenvolvimento de jogos e apps . Adoro explorar novas tecnologias e construir coisas incríveis.
+## About me
+I am graduating in Analytics and Systems Development at FIAP. I started my studies 1 year ago and I love technology. I have knowledge in many languages such as Python, Java, JavaScript, and C. Additionally, I also have knowledge in markup and styling languages, HTML (HyperText Markup Language), and CSS (Cascading Style Sheets).
 
-- 🌱 Atualmente estou aprendendo Html, Css e JavaScript. 
-- 📫 Como me encontrar: www.instagram.com/lipethegoat
 
-## Habilidades
+## GitHub Stats
 
-Aqui estão algumas das tecnologias e linguagens com as quais estou familiarizado:
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=felipeclarindo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180em"/>  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeclarindo&layout=compact&langs_count=7&theme=dark" height="180em" /> 
 
-- Linguagens de Programação: [Python, JavaScript]
-- Frameworks: (pygame, tkinter)
-- Ferramentas: Visual Studio Code
-- Outras Habilidades: Banco de dados
+## Projects
+1. [Automotive Center](https://github.com/felipeclarindo/automotive-center)**:** This project is a software in Python that interacts with an API from a fictional automotive center. It allows users to search for common car issues, list cars that often have problems, request estimates, and exit the program. Developed by Felipe Clarindo and licensed under the GNU Affero License.
 
-## Projetos Destacados
+2. [Future of Technology](https://github.com/felipeclarindo/future-of-technology)**:**  This project is a website developed in HTML, CSS and JavaScript. That explores the future of technology, addressing topics such as artificial intelligence, the Internet of Things, and quantum computing. It discusses how these technologies are impacting various sectors and society as a whole, highlighting ethical and social challenges. The website aims to inform and raise awareness among the public about the transformative role of technology in our lives. Developed by Felipe Clarindo and licensed under the GNU Affero License.
 
-Aqui estão alguns dos meus projetos que podem lhe interessar:
+3. [Currency Converter](https://github.com/felipeclarindo/currency-converter)**:**  This project is a software in Python that allows the user to select two different currencies and enter a value for conversion. It calculates the conversion based on the exchange rates provided by an API and displays the result to the user. Developed by Felipe Clarindo and licensed under the GNU Affero License.
 
-- [Automação de e-mails](https://github.com/felipeclarindo/automacao-email):
-  Projeto em Python que envia e-mails automaticamente para contatos com agendamento e rastreamento.
-  Usando bibliotecas como smtplib e schedule, automatiza envios e gera relatórios PDF detalhados.
-  Solução completa para automação de e-mails.
-  
-- [WebSite PetLife](https://github.com/felipeclarindo/projeto-petlife):
-  Projeto feito para aprimorar meu conhecimento em JavaScript e a utilização do html, css.
+4. [Calculator JOptionPane](https://github.com/felipeclarindo/calculator-joptionpane)**:** This project is a software in Java, developed to perform basic mathematical operations. Using a simple graphical interface, the program allows the user to choose operations such as addition, subtraction, multiplication, and division, entering the desired values through dialog boxes. The software was developed with the aim of providing an intuitive and efficient tool for simple calculations, useful in various daily situations. Developed by Felipe Clarindo and licensed under the GNU Affero License.
 
-- [Buscar Cep](https://github.com/felipeclarindo/buscar-cep)
-  Projeto desenvolvido utilizando Python, com a utilização do Framework "requests".
-  Faz uma requisição em uma api de cep, e retorna as informações do cep informado.
-  
-## Estatísticas
+5. [Search Cep](https://github.com/felipeclarindo/buscar-cep)**:**  This project is a appliaction in Python that uses the customtkinter library to create a custom graphical interface. The purpose of the application is to allow the user to search for information about a typed ZIP code, such as street, neighborhood, city, and area code. The user enters the ZIP code in an input field, clicks a button to search, and the information is displayed in text fields in the interface. Developed by Felipe Clarindo and licensed under the GNU Affero License.
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeclarindo&show_icons=true&count_private=true&hide=stars)](https://github.com/felipeclarindo)
+6. [PetLife](https://github.com/felipeclarindo/petlife)**:**  This project is a website developed in HTML, CSS and JavaScript. It promotes a fictional veterinary clinic, providing information about services such as veterinary consultations, vaccination, surgeries, grooming, as well as a pet shop and pharmacy. It also includes a frequently asked questions section to clarify customer doubts. Based on Dev em Dobro, Developed by Felipe Clarindo and licensed under the GNU Affero License.
 
-## Entre em Contato
+7. [Gta V](https://github.com/felipeclarindo/gta-v)**:**  This project is a promotional website for the game Grand Theft Auto V, developed in HTML, CSS, and JavaScript. The site provides information about the game, such as availability for Playstation 5 and Xbox Series X|S, including the story mode and GTA Online. Additionally, the site offers the option to purchase the game for various platforms, such as PS5, Xbox Series X|S, PS4, Xbox One, and PC. The website's design is modern and includes visual elements related to the game, such as logos and images. Based on Dev em Dobro, Developed by Felipe Clarindo and licensed under the GNU Affero License.
 
-Fique à vontade para entrar em contato comigo por email ou através das minhas redes sociais:
+## Most Used Languages
 
-- Email: contato.felipeclarindo@gmail.com
-- LinkedIn: [felipeclarindo]](https://www.linkedin.com/in/felipe-clarindo-934578289/)
-- ...
+<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50em">                                                           <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50em">                                       <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50em">                                                    <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50em">                                                   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50em"/>
 
-Espero que você encontre algo interessante nos meus projetos e contribuições. Sinta-se à vontade para explorar e colaborar!
+## Social Media
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lipethegoat)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeclarindo)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com:felipeclarindo)
