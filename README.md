@@ -33,4 +33,4 @@ I am graduating in Analytics and Systems Development at FIAP. I started my studi
 
 [![Instagram](https://img.shields.io/badge/-Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lipethegoat)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeclarindo)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com:felipeclarindo)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/felipeclarindo)
