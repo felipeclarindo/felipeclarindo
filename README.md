@@ -28,24 +28,16 @@ I am graduating in Analytics and Systems Development at FIAP. I started my studi
 ## Most Used Technologies
 
 <div>
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50em">                                       
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="50em">
   <img alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50em">
   <img alt="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50em">
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50em">
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50em">                                       
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="50em">
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50em">
   <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50em">                                                    
   <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50em">                                                  
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50em">
 </div>
-  
-Vue.js:
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg
-React:
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
-
-Next.js:
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg
 
 ## Social Media
 
