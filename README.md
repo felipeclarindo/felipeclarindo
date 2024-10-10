@@ -10,7 +10,7 @@ I am graduating in Analytics and Systems Development at FIAP. I started my studi
 
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=felipeclarindo&show_icons=true&theme=transparent&bg_color=000000&include_all_commits=true&count_private=true&title_color=219D01&border_color=219D01&text_color=219D01&icon_color=219D01" height="180em"/>  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeclarindo&layout=compact&langs_count=7&theme=transparent&bg_color=000000&title_color=219D01&border_color=219D01&text_color=219D01" height="180em" /> 
 
-## Projects
+## Some Projects
 1. [Automotive Center](https://github.com/felipeclarindo/automotive-center)**:** This project is a software in Python that interacts with an API from a fictional automotive center. It allows users to search for common car issues, list cars that often have problems, request estimates, and exit the program. Developed by Felipe Clarindo and licensed under the GNU Affero License.
 
 2. [Future of Technology](https://github.com/felipeclarindo/future-of-technology)**:**  This project is a website developed in HTML, CSS and JavaScript. That explores the future of technology, addressing topics such as artificial intelligence, the Internet of Things, and quantum computing. It discusses how these technologies are impacting various sectors and society as a whole, highlighting ethical and social challenges. The website aims to inform and raise awareness among the public about the transformative role of technology in our lives. Developed by Felipe Clarindo and licensed under the GNU Affero License.
