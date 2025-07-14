@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/felipeclarindo">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=green" alt="LinkedIn">
   </a>
-  <a href="mailto:contato.felipeclarindo@gmail.com">
+  <a href="https://mailto:contato.felipeclarindo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=green" alt="Gmail">
   </a>
 </p>
