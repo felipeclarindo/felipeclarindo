@@ -2,6 +2,7 @@
 
 <h2 align='center'>About Me</h2>
 
+- 🎖️1x Github Foundations Certified.
 - 🎓 Graduating in Analytics and Systems Development at FIAP.
 - 🎓 Graduating in Data Science at Mackenzie.
 - 💻 Living Coding forever.
